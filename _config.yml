@@ -21,6 +21,7 @@
 title: "Concerts"
 name: "Jan Ouwens"
 description: "All the concerts that I went to"
+baseurl: "/concerts"
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes@4.20.2
