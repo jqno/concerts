@@ -28,6 +28,7 @@ defaults:
       path: ""
       type: posts
     values:
+      permalink: /:year-:month-:day/:title
       header:
         image: "images/banner.png"
       layout: single
