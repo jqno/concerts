@@ -1,0 +1,4 @@
+en: &DEFAULT_EN
+  tags_label            : "Artist:"
+  categories_label      : "Venue:"
+  date_label            : "Date:"
