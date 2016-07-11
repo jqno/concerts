@@ -41,7 +41,7 @@ defaults:
 # Site Author
 author:
   name: "Jan Ouwens"
-  avatar: "bio-photo.jpg"
+  avatar: "http://www.gravatar.com/avatar/f2e0574e5b5e770b5c5678b91ba889a6"
   bio: "I go to concerts a lot"
   location: "The Netherlands"
   lastfm: "jqno"
