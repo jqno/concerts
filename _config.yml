@@ -28,6 +28,8 @@ defaults:
       path: ""
       type: posts
     values:
+      header:
+        image: "images/banner.png"
       layout: single
       author_profile: true
       read_time: true
