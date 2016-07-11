@@ -33,10 +33,19 @@ defaults:
         image: "images/banner.png"
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+
+# Site Author
+author:
+  name: "Jan Ouwens"
+  avatar: "bio-photo.jpg"
+  bio: "I go to concerts a lot"
+  location: "The Netherlands"
+  lastfm: "jqno"
+  twitter: "jqno"
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes@4.20.2
