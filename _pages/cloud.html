@@ -1,0 +1,44 @@
+---
+layout: archive
+permalink: /cloud/
+title: "Cloud"
+author_profile: true
+---
+<h2>
+  <i class="fa fa-fw fa-music" aria-hidden="true"></i>
+  Artists
+</h2>
+
+<p class="page__taxonomy">
+  <span itemprop="keywords">
+  {% assign items = site.tags | sort %}
+  {% for item in items %}
+    {% assign num = item.last.size %}
+    {% if num > 12 %}{% assign num = 12 %}{% endif %}
+    <span style="font-size: {{ num | times: 5 | plus: 70 }}%">
+      <a href="/concerts/tags/#{{ item | first | slugify }}">{{ item | first | replace:'-',' ' }}</a>
+      ({{ num }})
+    </span>
+  {% endfor %}
+  </span>
+</p>
+
+<h2>
+  <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>
+  Venues
+</h2>
+
+<p class="page__taxonomy">
+  <span itemprop="keywords">
+  {% assign items = site.categories | sort %}
+  {% for item in items %}
+    {% assign num = item.last.size %}
+    {% if num > 12 %}{% assign num = 12 %}{% endif %}
+    <span style="font-size: {{ num | times: 5 | plus: 70 }}%">
+      <a href="/concerts/tags/#{{ item | first | slugify }}">{{ item | first | replace:'-',' ' }}</a>
+      ({{ num }})
+    </span>
+  {% endfor %}
+  </span>
+</p>
+
