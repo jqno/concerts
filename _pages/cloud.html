@@ -35,7 +35,7 @@ author_profile: true
     {% assign num = item.last.size %}
     {% if num > 12 %}{% assign num = 12 %}{% endif %}
     <span style="font-size: {{ num | times: 5 | plus: 70 }}%">
-      <a href="/concerts/tags/#{{ item | first | slugify }}">{{ item | first | replace:'-',' ' }}</a>
+      <a href="/concerts/categories/#{{ item | first | slugify }}">{{ item | first | replace:'-',' ' }}</a>
       ({{ num }})
     </span>
   {% endfor %}
