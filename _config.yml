@@ -29,7 +29,7 @@ defaults:
       path: ""
       type: posts
     values:
-      permalink: /:year-:month-:day/:title
+      permalink: /:year/:month/:day/:title/
       layout: single
       author_profile: true
       read_time: false
