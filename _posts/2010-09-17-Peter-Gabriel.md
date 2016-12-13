@@ -1,5 +1,5 @@
 ---
-title: "New Blood"
+title: "Peter Gabriel"
 tags:
   - "Ane Brun"
   - "Peter Gabriel"
