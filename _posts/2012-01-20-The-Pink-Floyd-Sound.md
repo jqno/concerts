@@ -3,7 +3,7 @@ title: "The Pink Floyd Sound"
 tags:
   - "The Pink Floyd Sound"
 categories:
-  - "De Effenaar - Eindhoven "
+  - "De Effenaar - Eindhoven"
 ---
 Setlist
 -------
