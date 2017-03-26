@@ -17,3 +17,7 @@ Band members
 * _bass_: Koos Wiltenburg
 * _guitar_: Thomas Zoetelief
 
+The company
+-----------
+Martijn C
+
