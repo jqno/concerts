@@ -1,7 +1,7 @@
 ---
-title: "Neal Morse"
+title: "Neal Morse Band"
 tags:
-  - "Neal Morse"
+  - "Neal Morse Band"
 categories:
   - "013 - Tilburg"
 ---

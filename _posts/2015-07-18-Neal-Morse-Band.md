@@ -1,7 +1,7 @@
 ---
-title: "Neal Morse"
+title: "Neal Morse Band"
 tags:
-  - "Neal Morse"
+  - "Neal Morse Band"
 categories:
   - "De Effenaar - Eindhoven"
 ---
@@ -14,7 +14,7 @@ Setlist
 1. Harm's Way /  Go the Way You Go (Spock's Beard)
 1. The Creation
 1. There Is Nothin' That God Can't Change
-1. Watefall
+1. Waterfall
 1. In the Fire
 1. Alive Again
 
