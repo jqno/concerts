@@ -20,6 +20,7 @@ Participants
 * Chaka Khan
 * Tom Chaplin (from Keane)
 * Natasha Bedingfield
+* Leona Philippo
 * John Miles
 * Il Novecento
 * Fine Fleur
