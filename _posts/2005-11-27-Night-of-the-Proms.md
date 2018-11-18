@@ -5,6 +5,7 @@ tags:
   - "John Miles"
   - "Roger Daltrey"
   - "Chico and the Gypsies"
+  - "Seal"
   - "Frank Boeijen"
   - "Safri Duo"
 categories:
