@@ -25,7 +25,7 @@ _encore 1_
 _encore 2_
 
 * All of the Above (abridged)
-* Stranger in Your Sould (abridged)
+* Stranger in Your Soul (abridged)
 
 Band members
 ------------
