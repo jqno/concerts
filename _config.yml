@@ -25,6 +25,14 @@ name: "Jan Ouwens"
 description: "All the concerts that I went to"
 baseurl: "/concerts"
 
+author:
+  name: "Jan Ouwens"
+  avatar: "https://www.gravatar.com/avatar/f2e0574e5b5e770b5c5678b91ba889a6"
+  bio: "I go to concerts a lot"
+  location: "The Netherlands"
+  lastfm: "jqno"
+  twitter: "jqno"
+
 defaults:
   - scope:
       path: ""
@@ -50,14 +58,12 @@ defaults:
       share: false
       related: false
 
-# Site Author
-author:
-  name: "Jan Ouwens"
-  avatar: "https://www.gravatar.com/avatar/f2e0574e5b5e770b5c5678b91ba889a6"
-  bio: "I go to concerts a lot"
-  location: "The Netherlands"
-  lastfm: "jqno"
-  twitter: "jqno"
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes@4.20.2
@@ -77,12 +83,16 @@ include:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
 
 github: [metadata]
