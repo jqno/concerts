@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 locale: "ie"
-title: "Concerts"
+title: "tr ouwens/concerts"
+masthead_title: "tr ouwens"
 name: "Jan Ouwens"
 description: "All the concerts that I went to"
 baseurl: "/concerts"

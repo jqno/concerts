@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "by date"
+    url: /
+
   - title: "by artist"
     url: /tags
 
