@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 locale: "ie"
-title: "tr ouwens/concerts"
-masthead_title: "tr ouwens"
+title: "Concerts"
+subtitle: "jqno.nl"
 name: "Jan Ouwens"
 description: "All the concerts that I went to"
 baseurl: "/concerts"
@@ -42,6 +42,8 @@ defaults:
       permalink: /:year/:month/:day/:title/
       layout: single
       author_profile: true
+      sidebar:
+        nav: "side"
       read_time: false
       comments: false
       share: false
@@ -54,6 +56,8 @@ defaults:
       header:
         overlay_image: "images/banner.png"
       author_profile: true
+      sidebar:
+        nav: "side"
       read_time: false
       comments: false
       share: false

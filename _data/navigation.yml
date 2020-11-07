@@ -1,13 +1,22 @@
-# main links links
+# main links
 main:
-  - title: "by date"
-    url: /
+  - title: "/"
+    url: http://jqno.nl
+  - title: "Blog"
+    url: http://jqno.nl/blog
+  - title: "Talks"
+    url: http://jqno.nl/talks
+  - title: "EqualsVerifier"
+    url: http://jqno.nl/equalsverifier
 
-  - title: "by artist"
-    url: /tags
-
-  - title: "by venue"
-    url: /categories
-
-  - title: "cloud"
-    url: /cloud
+side:
+  - title: "Concerts"
+    children:
+    - title: "by date"
+      url: /
+    - title: "by artist"
+      url: /tags
+    - title: "by venue"
+      url: /categories
+    - title: "cloud"
+      url: /cloud
