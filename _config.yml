@@ -34,6 +34,11 @@ author:
   lastfm: "jqno"
   twitter: "jqno"
 
+footer:
+  links:
+    - label: "Privacy Policy"
+      url: "https://jqno.nl/privacy"
+
 defaults:
   - scope:
       path: ""
