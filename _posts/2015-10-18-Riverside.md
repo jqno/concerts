@@ -6,6 +6,9 @@ tags:
   - "Riverside"
 categories:
   - "013 - Tilburg"
+recording:
+  title: "Lost 'n' Found: Live in Tilburg"
+  url: "https://riversideband.pl/en/music/live-albums-dvd-5-1/lost-n-found-live-in-tilburg-2020"
 ---
 Support bands
 -------------

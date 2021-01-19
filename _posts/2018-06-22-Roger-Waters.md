@@ -4,6 +4,9 @@ tags:
   - "Roger Waters"
 categories:
   - "Ziggo Dome - Amsterdam"
+recording:
+  title: "US + THEM"
+  url: "https://ukshop.rogerwaters.com/products/us-them-2cd-bundle"
 ---
 Setlist
 -------

@@ -5,6 +5,9 @@ tags:
   - "Marillion"
 categories:
   - "013 - Tilburg"
+recording:
+  title: "Front Row Club Issue 17"
+  url: "http://marillion.com/shop/downloads/frc017.htm"
 ---
 Support band
 ------------

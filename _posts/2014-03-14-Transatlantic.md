@@ -4,6 +4,9 @@ tags:
   - "Transatlantic"
 categories:
   - "013 - Tilburg"
+recording:
+  title: "KaLIVEoscope"
+  url: "https://www.transatlanticweb.com/discography.php?p=taklle"
 ---
 Setlist
 -------
