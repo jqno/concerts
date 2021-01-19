@@ -21,8 +21,14 @@
         <p class="archive__item-excerpt" itemprop="description"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %B %Y" }}</time></p>
       </div>
       <div style="margin-left: 30%;">
-        <h2 class="archive__item-title" itemprop="headline">{% if post.id %}{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}{% else %}{{ post.title }}{% endif %}{% if post.link %}<i class="fa fa-star" aria-hidden="true"></i>{% endif %}</h2>
-        <p class="page__meta"><i class="fa fa-map-marker" aria-hidden="true"></i> {{ post.categories }}</p>
+        <h2 class="archive__item-title" itemprop="headline">
+          {% if post.id %}{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}{% else %}{{ post.title }}{% endif %}
+          {% if post.link %}<i class="fa fa-star" aria-hidden="true"></i>{% endif %}
+          {% if post.recording %}<i class="fa fa-film" aria-hidden="true"></i>{% endif %}
+        </h2>
+        <p class="page__meta">
+          <i class="fa fa-map-marker" aria-hidden="true"></i> {{ post.categories }}
+        </p>
       </div>
     </article>
   </a>
