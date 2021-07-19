@@ -37,7 +37,7 @@ _encore_
 
 1. Brabant
 1. Tranen gelachen
-1. iets nieuws met Armin van Buren
+1. Net als dansen
 
 _encore_
 
