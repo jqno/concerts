@@ -5,6 +5,9 @@ tags:
   - "Riverside"
 categories:
   - "Paradiso - Amsterdam"
+recording:
+  title: "Six Frenchmen in Amsterdam - Live at Paradiso"
+  url: "https://www.amazon.nl/LAZULI-Frenchmen-Amsterdam-Live-Paradiso/dp/B004F79GXQ"
 ---
 Setlist
 -------
