@@ -28,11 +28,14 @@ search: true
 
 author:
   name: "Jan Ouwens"
-  avatar: "https://www.gravatar.com/avatar/f2e0574e5b5e770b5c5678b91ba889a6"
+  avatar: "assets/avatar.jpg"
   bio: "I go to concerts a lot"
   location: "The Netherlands"
   lastfm: "jqno"
   twitter: "jqno"
+
+twitter:
+  username: jqno
 
 footer:
   links:
@@ -49,6 +52,8 @@ defaults:
       author_profile: true
       sidebar:
         nav: "side"
+      header:
+        og_image: "images/banner.png"
       read_time: false
       comments: false
       share: false
