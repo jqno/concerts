@@ -28,7 +28,7 @@ search: true
 
 author:
   name: "Jan Ouwens"
-  avatar: "assets/avatar.jpg"
+  avatar: "images/avatar.jpg"
   bio: "I go to concerts a lot"
   location: "The Netherlands"
   lastfm: "jqno"
