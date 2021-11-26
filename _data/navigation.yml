@@ -8,15 +8,3 @@ main:
     url: http://jqno.nl/talks
   - title: "EqualsVerifier"
     url: http://jqno.nl/equalsverifier
-
-side:
-  - title: "Concerts"
-    children:
-    - title: "by date"
-      url: /
-    - title: "by artist"
-      url: /tags
-    - title: "by venue"
-      url: /categories
-    - title: "cloud"
-      url: /cloud

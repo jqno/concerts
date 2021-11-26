@@ -50,8 +50,6 @@ defaults:
       permalink: /:year/:month/:day/:title/
       layout: single
       author_profile: true
-      sidebar:
-        nav: "side"
       header:
         og_image: "images/banner.png"
       read_time: false
@@ -66,8 +64,6 @@ defaults:
       header:
         overlay_image: "images/banner.png"
       author_profile: true
-      sidebar:
-        nav: "side"
       read_time: false
       comments: false
       share: false
