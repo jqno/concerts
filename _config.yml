@@ -51,7 +51,7 @@ defaults:
       layout: single
       author_profile: true
       header:
-        og_image: "images/banner.png"
+        og_image: "images/card.jpg"
       read_time: false
       comments: false
       share: false
@@ -62,7 +62,8 @@ defaults:
     values:
       layout: single
       header:
-        overlay_image: "images/banner.png"
+        overlay_image: "images/banner.jpg"
+        og_image: "images/card.jpg"
       author_profile: true
       read_time: false
       comments: false
