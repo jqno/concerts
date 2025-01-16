@@ -3,27 +3,29 @@ title: "Filip Jordens: Hommage à Brel"
 tags:
   - "Filip Jordens"
 categories:
-  - "Theaters Tilburg"
+  - "Theater De Leest - Waalwijk"
 ---
 # Setlist
 
 - Le cheval
-- Tango funèbre
+- Fils de...
 - La chanson des vieux amants
+- Rosa (nl versie)
 - Les fenêtres
-- Marieke
 - Seul
 - Au suivant
-- Fernand
+- Marieke
 - Orly
-- Mathilde
-- Amsterdam
-- Mijn vlakke land / Le plat pays
-- Les paumés du petit matin
-- Ne me quitte pas
+- De burgerij
+- La Fanette
 - Les toros
+- Mijn vlakke land / Le plat pays
+- Mathilde
+- Le dernier repas
+- Amsterdam
+- Ne me quitte pas
+- Comment tuer l'amant de sa femme quand on a été élevé comme moi dans la tradition
 - Les vieux
-- Le diable (ça va)
 - La valse à mille temps
 - Madeleine
 
@@ -33,4 +35,4 @@ _encore_
 
 # The company
 
-*, mama
+*, Bob, Els
