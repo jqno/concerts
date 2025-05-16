@@ -3,7 +3,7 @@ title: "Nick Mason's Saucerful of Secrets"
 tags:
   - "Nick Mason"
 categories:
-  - "Frits Philips Muziekcentrum - Eindhoven"
+  - "Muziekgebouw - Eindhoven"
 ---
 
 # Setlist
