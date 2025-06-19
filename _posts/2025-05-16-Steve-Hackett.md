@@ -5,6 +5,7 @@ tags:
 categories:
   - "013 - Tilburg"
 ---
+# Setlist
 
 1. People of the Smoke
 1. Circo Inferno
@@ -32,3 +33,12 @@ _encore_
 
 1. Firth of Fifth
 1. Los Endos / Slogans / Los Endos
+
+# Band members
+
+* _guitar, vocals_: Steve Hackett
+* _vocals_: Nad Sylvan
+* _keyboards_: Roger King
+* _sax, flute, percussion, keys, vocals_: Rob Townsend
+* _bass, vocals_: Jonas Reingold
+* _drums, vocals_: Craig Blundell
