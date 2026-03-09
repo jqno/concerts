@@ -32,8 +32,8 @@ _intermission_
 1. Death and Hell
 1. Give My Love to Rose
 1. Mean Eyed Cat
-1. I'm Movin On
-1. Ghostriders
+1. I'm Moving On
+1. (Ghost) Riders in the Sky
 1. A Boy Named Sue
 1. I've Been Everywhere
 1. Folsom Prison Blues
